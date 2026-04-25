@@ -8,15 +8,17 @@ This project investigates the exertion of monopsony power by Amazon over its thi
 
 Market share dominance is a 154x stronger predictor of fee increases than actual operational costs, suggesting that Amazon’s "Take Rate" functions as a private tax on e-commerce entry.
 
+
 **Technical Framework**
 
-Model: Category Fixed Effects Panel Regression.
+**Model:** Category Fixed Effects Panel Regression.
 
 **Dependent Variable:** Take Rate (Total 3P fees as a % of revenue).
 
 **Key Independent Variables:** Market Share (Monopsony Power) and Logistics Intensity (Operational Friction).
 
 **Software Stack:** R (fixest for high-dimensional fixed effects).
+
 
 **Critical Insights**
 
@@ -26,7 +28,9 @@ Model: Category Fixed Effects Panel Regression.
 
 **Antitrust Implications:** This study argues that traditional consumer-centric antitrust metrics (HHI, consumer price indices) fail to capture the supply-side harm inherent in digital platform ecosystems.
 
+
 **Repository Contents**
+
 amazon_monopsony_analysis.R: Clean, commented R script for data processing and regression.
 
 Amazon_Monopsony_Presentation.pdf: The final technical presentation and theoretical framework.
