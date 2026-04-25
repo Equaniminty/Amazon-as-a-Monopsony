@@ -1,8 +1,11 @@
-[Project Title: Reimagining Monopsony — Amazon’s Gatekeeper Power]
+Project Title: Reimagining Monopsony — Amazon’s Gatekeeper Power
+
+
 **Executive Summary**
 This project investigates the exertion of monopsony power by Amazon over its third-party (3P) seller ecosystem. By analyzing a longitudinal dataset of market share, platform fees, and logistics costs (2016–2025), this study identifies a clear decoupling of pricing from operational friction.
 
 **Key Finding:** 
+
 Market share dominance is a 154x stronger predictor of fee increases than actual operational costs, suggesting that Amazon’s "Take Rate" functions as a private tax on e-commerce entry.
 
 **Technical Framework**
