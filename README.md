@@ -8,6 +8,7 @@ This project investigates the exertion of monopsony power by Amazon over its thi
 
 Market share dominance is a 154x stronger predictor of fee increases than actual operational costs, suggesting that Amazon’s "Take Rate" functions as a private tax on e-commerce entry.
 
+<img width="1173" height="716" alt="image" src="https://github.com/user-attachments/assets/9065fa77-84a4-4034-8a0f-a372b0450c0a" />
 
 **Technical Framework**
 
