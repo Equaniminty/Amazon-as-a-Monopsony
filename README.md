@@ -1,3 +1,4 @@
+![Graph Description] (amazon_monopsony_graph.png)
 Project Title: Reimagining Monopsony — Amazon’s Gatekeeper Power
 
 
